@@ -116,12 +116,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=afnan-altaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="175" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=afnan-altaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="175" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=afnan-altaf&theme=tokyonight-duo&hide_border=true&background=000000&stroke=6366f1&ring=818cf8&fire=6366f1&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" height="175" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-altaf&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&langs_count=8" height="275" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=afnan-altaf&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&langs_count=8" height="275" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnan-altaf&bg_color=000000&color=818cf8&line=6366f1&point=a5b4fc&area=true&area_color=0d0221&hide_border=true&custom_title=Contribution%20Activity" height="275" />
 
 </div>
@@ -150,74 +150,74 @@
 
 <!-- ROW 1: Bots & Automation -->
 <a href="https://github.com/afnan-altaf/JT-Github-TGbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=JT-Github-TGbot&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=JT-Github-TGbot&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/Restaurant-Bot-By-JamberTech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=Restaurant-Bot-By-JamberTech&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=Restaurant-Bot-By-JamberTech&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 2: Bots continued -->
 <a href="https://github.com/afnan-altaf/Voice-To-Text-Module">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=Voice-To-Text-Module&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=Voice-To-Text-Module&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/whatsapp-n8n-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=whatsapp-n8n-bot&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=whatsapp-n8n-bot&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 3: Tools & Utilities -->
 <a href="https://github.com/afnan-altaf/JamberTech-GDrive-Copier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=JamberTech-GDrive-Copier&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=JamberTech-GDrive-Copier&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/humanizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=humanizer&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=humanizer&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 4: Web & UI -->
 <a href="https://github.com/afnan-altaf/interactive-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=interactive-portfolio&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=interactive-portfolio&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/pro-ui-boilerplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=pro-ui-boilerplate&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=pro-ui-boilerplate&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 5: Web & UI continued -->
 <a href="https://github.com/afnan-altaf/GithubBotGuide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=GithubBotGuide&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=GithubBotGuide&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/ID-Remover-Guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=ID-Remover-Guide&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=ID-Remover-Guide&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 6: Platforms -->
 <a href="https://github.com/afnan-altaf/JAMBERTECH-LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=JAMBERTECH-LMS&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=JAMBERTECH-LMS&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/JAMBERTECH-E-SERVICES">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=JAMBERTECH-E-SERVICES&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=JAMBERTECH-E-SERVICES&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 7: More projects -->
 <a href="https://github.com/afnan-altaf/JamberTech-Pair">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=JamberTech-Pair&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=JamberTech-Pair&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/ID-ID-Remover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=ID-ID-Remover&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=ID-ID-Remover&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 8: 404 pages & fun -->
 <a href="https://github.com/afnan-altaf/UFO-Abduction-404-Page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=UFO-Abduction-404-Page&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=UFO-Abduction-404-Page&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/404-page-Cyber-View">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=404-page-Cyber-View&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=404-page-Cyber-View&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 <!-- ROW 9 -->
 <a href="https://github.com/afnan-altaf/claw-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=claw-code&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=claw-code&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 <a href="https://github.com/afnan-altaf/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=afnan-altaf&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=000000&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
 </a>
 
 </div>
