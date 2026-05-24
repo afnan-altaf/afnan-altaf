@@ -1,128 +1,195 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Afnan%20Jamber&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Founder%20%40%20JamberTech%20%7C%20Full-Stack%20Developer%20%7C%20Automation%20Expert&descAlignY=55&descSize=18&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Building+the+Future+with+JamberTech;💡+Full-Stack+%7C+Automation+%7C+AI+Tools;🛒+E-Commerce+%7C+Daraz+%7C+Shopify+Expert;🤖+WhatsApp+Bots+%7C+Telegram+Automation;✨+Turning+Ideas+into+Digital+Products)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0533,70:0d1f3c,100:001a2e&height=250&text=AFNAN%20JAMBER&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=⚡%20Founder%20@%20JamberTech%20%7C%20I%20don't%20just%20write%20code%20—%20I%20build%20revenue&descAlignY=62&descSize=16&descColor=94a3b8&stroke=6366f1&strokeWidth=2" />
 
 <br>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=afnan-altaf&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/afnan-altaf?label=Followers&style=for-the-badge&color=0e75b6&logo=github)](https://github.com/afnan-altaf)
-[![Stars](https://img.shields.io/github/stars/afnan-altaf?label=Total+Stars&style=for-the-badge&color=gold&logo=github)](https://github.com/afnan-altaf)
+<a href="https://github.com/afnan-altaf">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=root%40jambertech%3A~%24+./afnan+--introduce;%3E+Building+products+people+pay+for+%F0%9F%92%B0;%3E+Automating+everything+I+can+%F0%9F%A4%96;%3E+35%2B+repos+%7C+Shipping+daily+%F0%9F%9A%80;%3E+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%7C+Working+Worldwide+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAMBERTECH-Founder%20%26%20CEO-6366f1?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=afnan-altaf&style=for-the-badge&color=818cf8&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/OPEN%20FOR-Freelance%20%26%20Collabs-22d3ee?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 ---
 
-## 🧬 About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## `$ cat ~/about.me`
 
 ```yaml
-Name        : Afnan Jamber
-Role        : Founder @ JamberTech
-Location    : Pakistan 🇵🇰
-Email       : mail@afnanjamber.site
-Blog        : https://jambertech07.blogspot.com
-Specialties :
-  - Full-Stack Web Development (React, Next.js, Node.js, PHP)
-  - WhatsApp & Telegram Bot Automation
-  - E-Commerce (Daraz.pk & Shopify)
-  - Social Media Marketing & Growth
-  - AI Tools & Workflow Automation
-  - Google Drive & Cloud Automation
-Currently   : Building digital products under JamberTech
-Motto       : "Build Fast. Ship Smart. Scale Big."
+# /etc/afnan-jamber.conf — v2026.05
+──────────────────────────────────────
+  identity:
+    name:     "Afnan Jamber"
+    alias:    "afnan-altaf"
+    role:     "Founder & Builder @ JamberTech"
+    location: "Pakistan 🇵🇰 → Planet Earth 🌍"
+    contact:  "mail@afnanjamber.site"
+
+  philosophy: >
+    "I don't just write code.
+     I build systems that print money."
+
+  currently:
+    building:   "JamberTech product ecosystem"
+    automating: "WhatsApp + Telegram workflows"
+    selling:    "Daraz.pk & Shopify stores"
+    learning:   "Always. Every. Single. Day."
+
+  superpowers:
+    - Full-Stack Development (React / Node / PHP)
+    - Bot Automation (WhatsApp API, Telegram)
+    - E-Commerce (Daraz + Shopify)
+    - Cloud Automation (Google Drive API, n8n)
+    - AI Tools & Workflow Architecture
+──────────────────────────────────────
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Arsenal
+## `$ ls -la ~/tech-stack/`
 
 <div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<div align="center">
 
-### ⚡ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🔧 Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Daraz](https://img.shields.io/badge/Daraz-F75428?style=for-the-badge&logo=shopping-cart&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+</div>
+</td>
+<td valign="top" width="33%">
+
+### ⚡ Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 🔧 Backend & DevOps
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GH+Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/-WhatsApp+API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `$ github --stats afnan-altaf`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afnan-altaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-altaf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=afnan-altaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=afnan-altaf&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=6366f1&ring=818cf8&fire=6366f1&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" height="180" />
 
-<br/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=afnan-altaf&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-altaf&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=8" height="280" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afnan-altaf&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&area=true&area_color=1e1b4b&hide_border=true&custom_title=Contribution%20Activity" height="280" />
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## `$ trophy --show afnan-altaf`
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech |
-|---|---|---|
-| [🤖 JT GitHub Bot](https://github.com/afnan-altaf/JT-Github-TGbot) | Telegram GitHub Automation Bot with webhooks | Python |
-| [📱 Restaurant Bot](https://github.com/afnan-altaf/Restaurant-Bot-By-JamberTech) | WhatsApp Ordering System + Admin Panel | PHP |
-| [☁️ GDrive Copier](https://github.com/afnan-altaf/JamberTech-GDrive-Copier) | Full-stack Google Drive Copy Tool | TypeScript |
-| [🎙️ Voice-To-Text](https://github.com/afnan-altaf/Voice-To-Text-Module) | Free WhatsApp voice transcription (Groq Whisper) | JavaScript |
-| [🎨 Pro UI Boilerplate](https://github.com/afnan-altaf/pro-ui-boilerplate) | Next.js + Tailwind + Framer Motion Starter | TypeScript |
-| [🌐 Interactive Portfolio](https://github.com/afnan-altaf/interactive-portfolio) | Desktop-style OS Portfolio (RIVERA.OS) | TypeScript |
+<img src="https://github-profile-trophy.vercel.app/?username=afnan-altaf&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `$ git log --oneline --featured`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/afnan-altaf/afnan-altaf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<a href="https://github.com/afnan-altaf/JT-Github-TGbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=JT-Github-TGbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+</a>
+<a href="https://github.com/afnan-altaf/Restaurant-Bot-By-JamberTech">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=Restaurant-Bot-By-JamberTech&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+</a>
+<a href="https://github.com/afnan-altaf/JamberTech-GDrive-Copier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=JamberTech-GDrive-Copier&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+</a>
+<a href="https://github.com/afnan-altaf/Voice-To-Text-Module">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnan-altaf&repo=Voice-To-Text-Module&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&icon_color=6366f1" />
+</a>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `$ python3 snake.py --contribute`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@afnanjamber.site)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jambertech07.blogspot.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afnan-altaf)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923396267447)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-altaf/afnan-altaf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-altaf/afnan-altaf/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/afnan-altaf/afnan-altaf/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `$ ping afnan-jamber --connect`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/✉%20Email%20Me-6366F1?style=for-the-badge&logoColor=white)](mailto:mail@afnanjamber.site)
+[![Blog](https://img.shields.io/badge/📝%20JamberTech%20Blog-0F172A?style=for-the-badge&logoColor=white)](https://jambertech07.blogspot.com)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923396267447)
+[![GitHub](https://img.shields.io/badge/★%20Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afnan-altaf)
+
+<br>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  💼  Freelance Projects  ·  Automations  ·  Consulting   ║
+║  📍  Pakistan  ·  Available Worldwide  ·  Fast Delivery   ║
+║  ⚡  JamberTech — Turning Code Into Revenue Since 2025    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -130,8 +197,14 @@ Motto       : "Build Fast. Ship Smart. Scale Big."
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-*"The best way to predict the future is to build it." — JamberTech*
+<sub>
+  <i>
+    Built with obsession by <b>Afnan Jamber</b> · 
+    <a href="https://github.com/afnan-altaf">@afnan-altaf</a> · 
+    JamberTech © 2026
+  </i>
+</sub>
 
 </div>
